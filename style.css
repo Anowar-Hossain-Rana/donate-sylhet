@@ -125,6 +125,14 @@ body{
     display: flex;
 }
 
+.hwoto-btn{
+    margin-left: 50%;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    
+}
+
 
 .huf-with{
     width: 50%;
@@ -203,6 +211,19 @@ div.gallery {
 
 .btn-input{
     text-align: center;
+}
+
+.mail-entry{
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+.mail-sub{
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
 }
 
 .get-updates form{
