@@ -44,6 +44,27 @@ body{
     display:flex
 }
 
+.btn-div{
+    text-decoration: none;
+    background-color: #FFE4C4;
+    padding: 500x;
+    margin: 10px;
+    border-bottom: solid chocolate;
+}
+.donate-btn{
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+.entry-btn{
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
 .item1{
     margin: 30px;
     padding: 10px;
@@ -169,15 +190,6 @@ div.gallery {
     padding: 15px;
     text-align: center;
   }
-
-
-
-
-
-
-
-
-
 
 .get-updates{
     text-align: center;
